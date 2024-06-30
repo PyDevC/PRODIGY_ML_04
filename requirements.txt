@@ -1,0 +1,2 @@
+pip install kaggle
+kaggle datasets download -d gti-upm/leapgestrecog
